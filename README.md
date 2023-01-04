@@ -1,9 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Vijay Selvaraj</h1>
-<h3 align="center">A passionate data enthusiast,chemical engineer and an MBA graduate from Lancaster University.</h3>
+<h3 align="left"> 
+- I am
+
+- Data Enthusiast
+- Lancaster MBA
+- Certified six sigma practioner and data driven Process Engineer
+- PRINCE2 Certified Project Professional  
+ </h3>
 <img align="right" alt="data Scientist" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
-- 💬 Ask me about **Data science, Industry 4.0**
+- 💬 Ask me about **Data science, Industry 4.0, Data Analytics**
 
 - 📫 How to reach me **selvarajvijay91@gmail.com**
 
