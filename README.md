@@ -6,7 +6,7 @@
 - Data Enthusiast
 - Lancaster MBA
 - Certified six sigma practioner and data driven Process Engineer
-- PRINCE2 Certified Project Professional  
+- PRINCE2 Certified Project Manager
  </h3>
 <img align="right" alt="data Scientist" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
